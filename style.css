@@ -1,0 +1,84 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing:border-box ;
+}
+
+.page {
+  width: 384px;
+  height: 1995px;
+  margin: 15px auto;
+  
+}
+
+header{
+  width: 384px;
+  height: 272px;
+  background:#8E9AAF;
+}
+header img {
+  padding: 32px;
+  margin: auto;
+  display: block;
+}
+
+header span{
+  display: block;
+  text-align: center;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  background: #CBC0D3;
+  padding: 4px;
+  
+font-family: 'Staatliches', cursive;
+font-size:40px;
+line-height: 34px;
+}
+
+P{
+  font-family: 'Palanquin', sans-serif;
+  margin: 12px auto 63px;
+}
+main{
+  display: grid;
+  gap: 23px;
+}
+
+
+.card{
+  position: relative;
+  display: flex; 
+}
+
+.card img{
+  
+  margin: auto;
+  
+}
+
+
+.card span{
+  text-transform: uppercase;
+  color: #4A4E69;
+  font-family: 'Staatliches', cursive;
+  font-size: 20px;
+  border: 1px solid #4A4E69;
+  border-radius: 20px;
+  width: fit-content;
+  padding: 1px 23px ;
+  background: #FEEAFA;
+  margin: 17px 39px 199px 216px;
+ position: absolute;
+  
+
+}
+
+
+  
+  
+
+  
+
+  
+  
+

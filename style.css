@@ -37,7 +37,7 @@ line-height: 34px;
 
 P{
   font-family: 'Palanquin', sans-serif;
-  margin: 12px auto 63px;
+  margin: auto;
 }
 main{
   display: grid;
